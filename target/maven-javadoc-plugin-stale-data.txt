@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+23
+-sourcepath
+'C:/Users/DAW2/Documents/NetBeansProjects/JavaDocPractica/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/DAW2/Documents/NetBeansProjects/JavaDocPractica/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'JavaDocPractica 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'JavaDocPractica 1.0-SNAPSHOT API'
+com.mycompany.javadocpractica
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\src\main\java = 1740498046535
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\allclasses-index.html = 1740502714533
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\allpackages-index.html = 1740502714537
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\element-list = 1740502714480
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\help-doc.html = 1740502714578
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\index-all.html = 1740502714563
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\index.html = 1740502714571
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\member-search-index.js = 1740502714547
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\module-search-index.js = 1740502714540
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\overview-tree.html = 1740502714520
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\package-search-index.js = 1740502714542
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\search.html = 1740502714568
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\tag-search-index.js = 1740502714549
+C:\Users\DAW2\Documents\NetBeansProjects\JavaDocPractica\target\reports\apidocs\type-search-index.js = 1740502714544
