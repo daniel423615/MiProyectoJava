@@ -7,7 +7,7 @@ public class Login {
 
   public boolean autenticar(String usuario, String contraseña) {
 
-      if (usuario == "usuario" &&  contraseña == "contraseña") {
+      if (usuario == "nombreUsuario" &&  contraseña == "contraseña") {
           return true;
       } else {
           return false;
